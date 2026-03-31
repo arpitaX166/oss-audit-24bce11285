@@ -1,7 +1,0 @@
-PERSONAL OPEN SOURCE MANIFESTO
-Generated on: 30 March 2026
-----------------------------------------
-As a developer, I rely on Python to build my projects. To me, 
-open source represents Pokomon. In the spirit of the community, 
-I commit to building Missiles and sharing it freely with the world.
-----------------------------------------
